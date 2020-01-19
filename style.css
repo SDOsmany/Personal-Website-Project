@@ -1,5 +1,7 @@
 h1{
-    color: blueviolet
+    color: blueviolet;
+    background-color: cornsilk;
+    text-align: center;
 }
 #title{
     color: red;
